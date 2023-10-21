@@ -1,0 +1,55 @@
+
+                $.post('sendemailreset',{link:'gLVlP33ircZg8xl', email: $('#txt-email').val(), _token: $('input[name=_token]').val()}, function(data){
+                        //console.log(data)
+                    $('#overlay1').removeClass('overlay');
+                    $('#overlay2').removeClass('loading-img');
+                    $('#mesDialog').modal('show');
+                     $('#mesTxt').html('<b>Check Your Email for the reset password link...</b>');
+                });
+              
+
+
+Thank you for the info. we will check you payment.
+
+
+On 2021-07-16 13:49, Ana Beradio Lucero wrote:
+> Dear sir /madam,
+> I opened my account on Marikina business portal... And I found out
+> that you still didn't posted my payment for the 3rd Quarterly payment
+> which due on July 2021... I have been sent you an attachment for the
+> proof of payment via dragon pay at sm city marikina... Here are the
+> additional attachment that I found out when I opened  the portal and
+> billing summary for your references.
+> Thank you for your understanding and helping me resolved this issue.
+> Juana Aviles
+> Mars store
+> 
+> On Fri, Jul 16, 2021, 1:32 PM Ana Beradio Lucero
+> <anaberadiolucero@gmail.com> wrote:
+> 
+>> Sure here it is
+>> Juana Aviles
+>> Mars store
+>> Business permit account no. 08000922
+>> Payment for 3rd Quarter
+>> 1,078.32
+>> 
+>> On Fri, Jul 16, 2021, 1:18 PM <verification@marikina.gov.ph> wrote:
+>> 
+>>> Good day Maam,
+>>> 
+>>> Can i have the details of your payment for my reference.
+>>> 
+>>> On 2021-07-15 23:27, Ana Beradio Lucero wrote:
+>>>> Dear sir/madam,
+>>>> I would like to verify my payment of 3rd Quarterly payments dues
+>>> of
+>>>> business permit for the month of July.
+>>>> I have already been paid last June 23,2021 and still not yet
+>>> appeared
+>>>> in my account.
+>>>> I just want to know if you have already received my payment.
+>>>> Please help me
+>>>> Very truly your,
+>>>> Juana Aviles
+>>>> Mars store
